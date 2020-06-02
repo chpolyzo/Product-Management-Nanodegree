@@ -1,0 +1,210 @@
+Customer name,Geo region,Current usage (TB),Industry/vertical,Common requirement,Internal/External
+Abb Inc.,US West,1.562403631,Retail,Protection from hardware failures,Internal
+Accela Inc.,Asia East,0.08146804743,Other,Data must stay within the same country/region,Internal
+Adapto Technologies,Europe West,1.718511356,Automotive,Intra-regional high availability,Internal
+Adrian,Asia East,0.9452070875,Automotive,Intra-regional high availability,Internal
+Agder Energi As,Europe West,0.2087288867,Oil/gas,Intra-regional high availability,Internal
+Aggreko Plc,Asia East,0.6789110162,Financial,Intra-regional high availability,Internal
+Ags,Asia East,1.701628865,Automotive,Protection from storage cluster going offline due to network outage,Internal
+Albiant-It,Asia East,0.8596288746,Automotive,Data must stay within the same country/region,Internal
+Alphamind Solutions,Asia East,0.4737562304,Automotive,Data must stay within the same country/region,Internal
+Alstom,Asia East,1.287575539,Automotive,Intra-regional high availability,Internal
+Amazon,US West,1.723335407,Retail,Protection from hardware failures,Internal
+Amer Sports Oyj,Europe West,1.075045027,Automotive,Intra-regional high availability,Internal
+Andre,Asia East,1.108171073,Other,Data must stay within the same country/region,Internal
+Andreas,Europe West,1.229856708,Oil/gas,Protection from hardware failures,Internal
+Ares Trading S.A.,Asia East,1.257032051,Financial,Intra-regional high availability,Internal
+Arjo Deutschland Gmbh,Europe West,0.3092917982,Oil/gas,Intra-regional high availability,Internal
+Arni,UK South,1.509625166,Financial,Intra-regional high availability,Internal
+Ase Software Ireland Ltd,Europe West,1.68317293,Automotive,Intra-regional high availability,Internal
+Asos.Com Ltd,Europe West,1.308747572,Oil/gas,Intra-regional high availability,Internal
+Atea A/S,Europe West,0.023112638,Oil/gas,Intra-regional high availability,Internal
+Atlantic Global Plc,Asia East,0.5990521894,Automotive,Intra-regional high availability,Internal
+Atos Engineering,UK South,0.3702067565,Automotive,Intra-regional high availability,Internal
+Azagroup S. A.,Europe West,1.014490342,Automotive,Intra-regional high availability,Internal
+Banco Comercial Português S.A.,Asia East,0.7433714456,Automotive,Intra-regional high availability,Internal
+Bastien,Europe West,1.375058753,Automotive,Intra-regional high availability,Internal
+Bayport Financial Services Plc,Europe West,0.9114814671,Automotive,Intra-regional high availability,Internal
+Bede Gaming Limited,Europe West,1.097432342,Oil/gas,Intra-regional high availability,Internal
+Black & Veatch Corporation,Asia East,0.8506811457,Financial,Intra-regional high availability,Internal
+Bliksund,Asia East,0.1970645654,Financial,Intra-regional high availability,Internal
+Bp Corporation North America Inc.,Asia East,1.524224404,Oil/gas,Intra-regional high availability,Internal
+Bridgestone Europe,US West,0.7053717617,Retail,Protection from hardware failures,Internal
+Britam Life Assurance,US West,0.9649721246,Retail,Protection from hardware failures,Internal
+British Broadcasting Corporation,US West,1.435944004,Retail,Protection from hardware failures,Internal
+Business Applications Group,Europe West,0.4668662434,Oil/gas,Intra-regional high availability,Internal
+Canada Life Group Services Limited,Europe West,1.154109444,Retail,Protection from hardware failures,Internal
+Carlo Fasini,Asia East,1.786823928,Automotive,Protection from storage cluster going offline due to network outage,Internal
+Chris,Europe West,1.736348088,Automotive,Intra-regional high availability,Internal
+Citus D.O.O.,Europe West,0.7702961496,Oil/gas,Protection from hardware failures,Internal
+Commerce + Ecosystems,Europe West,1.360780409,Automotive,Intra-regional high availability,Internal
+Content And Code- Kunallab,India Central,0.2709657093,Medical/genomics,Ability to transparently continue the operation in case of a single storage cluster being unavailable,Internal
+Corporation Of Lloyds,Europe West,1.084391476,Oil/gas,Intra-regional high availability,Internal
+Cosine,Europe West,0.1546904174,Automotive,Intra-regional high availability,Internal
+Ctt -Correios De Portugal Sa-Sociedade Aberta,Europe West,1.50075087,Automotive,Intra-regional high availability,Internal
+Cubic Telecom Limited,Europe West,1.385680679,Automotive,Intra-regional high availability,Internal
+Customer Service And Support,Asia East,1.926651911,Automotive,Intra-regional high availability,Internal
+Cybot A/S,Europe West,0.8526780747,Retail,Protection from hardware failures,Internal
+Daan,Europe West,0.478357757,Automotive,Intra-regional high availability,Internal
+Dan Strandberg,Europe West,1.422602955,Oil/gas,Intra-regional high availability,Internal
+Daniel,UK South,0.2937254346,Automotive,Intra-regional high availability,Internal
+Datum Monitoring Services Limited,Europe West,0.1718903618,Automotive,Intra-regional high availability,Internal
+David,Europe West,1.15586062,Oil/gas,Protection from hardware failures,Internal
+Delaware Consulting Cvba,Asia East,1.426428332,Automotive,Intra-regional high availability,Internal
+Design Museum,US West,0.5377626089,Retail,Protection from hardware failures,Internal
+Dimension Data Global Services Limited,Europe West,1.155587724,Oil/gas,Intra-regional high availability,Internal
+Diptanil,Asia East,0.02060663143,Other,Data must stay within the same country/region,Internal
+Dnv Gl As,Asia East,1.038092711,Manufacturing,Protection from power outage of a single storage cluster,Internal
+Docuware Gmbh,UK South,1.883914858,Automotive,Intra-regional high availability,Internal
+Doxray B.V.,Europe West,0.7322193703,Oil/gas,Intra-regional high availability,Internal
+E.On Digital Technology Gmbh,Europe West,1.435744374,Oil/gas,Intra-regional high availability,Internal
+Edsential,US West,1.314051099,Retail,Protection from hardware failures,Internal
+Eivind,UK South,0.4833910434,Financial,Intra-regional high availability,Internal
+Elon Group Ab,UK South,1.728135149,Automotive,Intra-regional high availability,Internal
+Evoke Creative Ltd,Europe West,0.2588851375,Oil/gas,Protection from hardware failures,Internal
+Evry As,Europe West,1.325174203,Oil/gas,Intra-regional high availability,Internal
+Excelsior Ict,India Central,1.324723755,Medical/genomics,Ability to transparently continue the operation in case of a single storage cluster being unavailable,Internal
+Experian Services Corp.,UK South,1.931608415,Financial,Intra-regional high availability,Internal
+Farminveste 4 - Serviços S.A.,Asia East,0.6986770442,Automotive,Intra-regional high availability,Internal
+Fiskars Oyj Abp,Asia East,0.3012930732,Financial,Intra-regional high availability,Internal
+Fjord Tours As,US West,0.5722528615,Retail,Protection from hardware failures,Internal
+Flexxible It,Asia East,1.402436176,Automotive,Intra-regional high availability,Internal
+Fortum Oyj,Asia East,0.7166799765,Other,Data must stay within the same country/region,Internal
+Francesco Massa,US West,1.8515837,Retail,Protection from hardware failures,Internal
+Fulcro Srl Unipersonale,Asia East,0.8336697563,Automotive,Protection from storage cluster going offline due to network outage,Internal
+Gac Group Of Companies B.V.,Europe West,1.404266462,Oil/gas,Intra-regional high availability,Internal
+Global Digital Marketing Programs Doo,India Central,0.9831560635,Medical/genomics,Ability to transparently continue the operation in case of a single storage cluster being unavailable,Internal
+Gruppera Ab,Europe West,0.4345525797,Oil/gas,Intra-regional high availability,Internal
+Hansa Borg Bryggerier As,Europe West,1.797563344,Oil/gas,Intra-regional high availability,Internal
+Hearst Communications Inc.,Europe West,0.02421418114,Oil/gas,Intra-regional high availability,Internal
+Hewlett Packard Enterprise Company,US West,1.008439984,Retail,Protection from hardware failures,Internal
+Hiscox Underwriting Group Services Limited,Europe West,0.08113139036,Oil/gas,Intra-regional high availability,Internal
+Hitachi Consulting Software,Asia East,0.7301136787,Automotive,Intra-regional high availability,Internal
+Hmd Global Oy,US West,1.551407739,Retail,Protection from hardware failures,Internal
+Hmk Technical Services,Europe West,0.08175583072,Oil/gas,Intra-regional high availability,Internal
+Hutchison International Limited,Asia East,1.297199581,Automotive,Intra-regional high availability,Internal
+Imagen Ltd,Asia East,0.3659281874,Automotive,Intra-regional high availability,Internal
+Ina,Asia East,0.189454886,Manufacturing,Protection from storage cluster going offline due to network outage,Internal
+Info Support B.V.,Europe West,1.755156908,Automotive,Intra-regional high availability,Internal
+Infoshare I Stockholm Ab,Asia East,1.032571933,Automotive,Data must stay within the same country/region,Internal
+Inovativ,Asia East,0.2455239304,Manufacturing,Protection from power outage of a single storage cluster,Internal
+Inspop.Com Limited,Europe West,0.06327354142,Retail,Protection from hardware failures,Internal
+Insurance Services Office Inc.,Europe West,1.75626602,Oil/gas,Intra-regional high availability,Internal
+Iten Solutions - Sistemas De Informação S.A.,Asia East,0.4914206411,Automotive,Data must stay within the same country/region,Internal
+Jonas Hjørdie,Europe West,1.74233227,Oil/gas,Intra-regional high availability,Internal
+Kidbrooke Advisory Ab,Asia East,0.2398248138,Financial,Intra-regional high availability,Internal
+Kmd A/S,Europe West,1.896551671,Automotive,Intra-regional high availability,Internal
+Koen Remmerswaal,Asia East,0.9735743032,Automotive,Intra-regional high availability,Internal
+Kpmg Llp,Europe West,1.288773925,Oil/gas,Intra-regional high availability,Internal
+Kvantbit,Europe West,1.684321595,Oil/gas,Intra-regional high availability,Internal
+Landmark Information Group Limited,Europe West,0.814084982,Oil/gas,Protection from hardware failures,Internal
+Lego System A/S,Europe West,0.82005029,Oil/gas,Intra-regional high availability,Internal
+Lukas,Europe West,1.564839495,Automotive,Intra-regional high availability,Internal
+M365 Core,Asia East,0.1828254621,Manufacturing,Protection from storage cluster going offline due to network outage,Internal
+Maana Inc,Asia East,0.8895084517,Financial,Intra-regional high availability,Internal
+Magnetix,Asia East,0.6864338072,Automotive,Intra-regional high availability,Internal
+Manor Ag,Europe West,0.4269069591,Automotive,Intra-regional high availability,Internal
+Marel India Pvt Ltd,Europe West,1.477678362,Oil/gas,Protection from hardware failures,Internal
+Marketing And Consumer Business,Asia East,0.1322179336,Automotive,Data must stay within the same country/region,Internal
+Masraff,Europe West,0.4037964065,Automotive,Intra-regional high availability,Internal
+Matti,US West,1.50462769,Retail,Protection from hardware failures,Internal
+Mehmet Akif,Asia East,1.893445648,Automotive,Intra-regional high availability,Internal
+Methodworx Ltd,Asia East,0.1359500919,Automotive,Intra-regional high availability,Internal
+Moto-Profil Sp. Z O.O.,US West,0.4709470433,Retail,Protection from hardware failures,Internal
+Nagravision Sa,Asia East,0.4664610241,Automotive,Intra-regional high availability,Internal
+Netgem Sa,Asia East,0.3522118903,Medical/genomics,Protection from power outage of a single storage cluster,Internal
+Nicolas,India Central,0.605708532,Medical/genomics,Ability to transparently continue the operation in case of a single storage cluster being unavailable,Internal
+Norkart,Asia East,1.480863617,Automotive,Intra-regional high availability,Internal
+Novo Nordisk A/S,Europe West,0.8486942419,Oil/gas,Intra-regional high availability,Internal
+Oas,Asia East,0.9998306556,Automotive,Data must stay within the same country/region,Internal
+Olavi Laitala,UK South,0.9112691874,Financial,Intra-regional high availability,Internal
+Olivier,US West,1.188295941,Retail,Protection from hardware failures,Internal
+Orbital Education,UK South,0.3150962209,Financial,Intra-regional high availability,Internal
+Origin Comfert Redoxim,UK South,1.076515725,Automotive,Intra-regional high availability,Internal
+Oxo,Asia East,1.770282089,Automotive,Intra-regional high availability,Internal
+Pan,UK South,1.391267742,Automotive,Intra-regional high availability,Internal
+Patrick,Europe West,0.1072782076,Retail,Protection from hardware failures,Internal
+Peter,Europe West,1.1025362,Oil/gas,Intra-regional high availability,Internal
+Phil,Europe West,0.3897500689,Automotive,Intra-regional high availability,Internal
+Prgx Global Inc.,UK South,1.821655385,Automotive,Intra-regional high availability,Internal
+Prima,Europe West,1.506221497,Automotive,Intra-regional high availability,Internal
+Promotional Payments,Europe West,0.5343557917,Automotive,Intra-regional high availability,Internal
+Proquire Llc,Europe West,0.8520806978,Oil/gas,Intra-regional high availability,Internal
+Provident Financial Management Services Ltd,Asia East,0.2623592781,Financial,Intra-regional high availability,Internal
+Qiagen Gmbh,UK South,1.402183275,Financial,Intra-regional high availability,Internal
+Quonext,Asia East,1.779369895,Automotive,Data must stay within the same country/region,Internal
+Ralf,Asia East,0.5548769364,Automotive,Protection from storage cluster going offline due to network outage,Internal
+Ray O'donnell,Europe West,1.808212227,Retail,Protection from hardware failures,Internal
+Rdt Limited,Europe West,1.145803203,Oil/gas,Protection from hardware failures,Internal
+Red River Software Ltd,Europe West,0.7243340796,Automotive,Intra-regional high availability,Internal
+Redflare Limited,UK South,1.352662467,Automotive,Intra-regional high availability,Internal
+Region Hovedstaden Koncern It,UK South,1.551018771,Automotive,Intra-regional high availability,Internal
+Relator Oy,UK South,0.8726324829,Automotive,Intra-regional high availability,Internal
+Ricoh Europe Plc,US West,1.424165819,Retail,Protection from hardware failures,Internal
+Robert Bosch Gmbh,Asia East,1.818384396,Automotive,Data must stay within the same country/region,Internal
+Rolls-Royce Plc,Europe West,0.0622107058,Oil/gas,Intra-regional high availability,Internal
+Sakis Tsolos,Asia East,0.8709885537,Automotive,Data must stay within the same country/region,Internal
+Sandor,Asia East,1.567544314,Automotive,Intra-regional high availability,Internal
+Sanoma Oyj,Asia East,0.126166094,Automotive,Intra-regional high availability,Internal
+Santander Global Technology S.L.,Asia East,1.623245378,Other,Data must stay within the same country/region,Internal
+Sap America Inc.,Asia East,0.3374505951,Automotive,Intra-regional high availability,Internal
+Sarastia Oy,Europe West,1.859264045,Oil/gas,Protection from hardware failures,Internal
+Sas Louvre,Europe West,0.4989555407,Automotive,Intra-regional high availability,Internal
+Schauer Agrotronic Gmbh,Asia East,1.615693111,Manufacturing,Protection from power outage of a single storage cluster,Internal
+Schouw Informatisering Bv,Asia East,0.7712377358,Automotive,Data must stay within the same country/region,Internal
+Scottish Water,Europe West,1.108040973,Automotive,Intra-regional high availability,Internal
+Screencheck Bv,Asia East,0.3971983601,Automotive,Protection from storage cluster going offline due to network outage,Internal
+Scriptsketch,India Central,1.685737806,Medical/genomics,Ability to transparently continue the operation in case of a single storage cluster being unavailable,Internal
+Scroll Up,India Central,1.865786426,Medical/genomics,Protection from power outage of a single storage cluster,Internal
+Scs Smart Connected Solutions Gmbh,Asia East,0.5738740957,Manufacturing,Protection from power outage of a single storage cluster,Internal
+Scully Systems Nv,Asia East,0.160476696,Automotive,Protection from storage cluster going offline due to network outage,Internal
+Sd Worx Group Nv,Asia East,0.2057185057,Automotive,Intra-regional high availability,Internal
+Sd&C Solutions Development & Consulting Gmbh,Asia East,0.542789247,Automotive,Intra-regional high availability,Internal
+Sdc Ek. För.,Asia East,0.7131962257,Automotive,Intra-regional high availability,Internal
+Sdg Consulting Ag,Asia East,0.3078936122,Automotive,Data must stay within the same country/region,Internal
+Seafox,US West,1.786891712,Retail,Protection from hardware failures,Internal
+Sebastien,US West,0.1440579689,Retail,Protection from hardware failures,Internal
+Secto Automotive Oy,Asia East,0.6835211886,Automotive,Protection from storage cluster going offline due to network outage,External
+Security,Asia East,0.7542911501,Automotive,Protection from storage cluster going offline due to network outage,External
+Secwatch B.V.,Asia East,0.135259368,Automotive,Intra-regional high availability,External
+Sesam Service,Asia East,0.4236661479,Automotive,Intra-regional high availability,External
+Shell Information Technology International Bv,Europe West,0.355329921,Oil/gas,Intra-regional high availability,External
+Sigma Conso,Asia East,0.6473127135,Automotive,Intra-regional high availability,External
+Sii Polska Sp Zoo,Europe West,1.674323612,Oil/gas,Intra-regional high availability,External
+Simpli Software As,Asia East,1.565122042,Financial,Intra-regional high availability,External
+Software Colors (Pty) Ltd,Asia East,0.3768382512,Automotive,Intra-regional high availability,External
+Software Delsol Sa,Asia East,1.62859542,Automotive,Intra-regional high availability,External
+Solutions Direkt Ag,Asia East,1.083807571,Automotive,Intra-regional high availability,External
+Soluzionidigitali Srl,Asia East,0.5518305364,Automotive,Intra-regional high availability,External
+Spotify,US West,1.223099311,Retail,Protection from hardware failures,External
+Square Marble Technology Ltd,US West,1.351920685,Retail,Protection from hardware failures,External
+Ssu,Asia East,0.6960370899,Other,Data must stay within the same country/region,External
+Statoil Asa,Europe West,1.780353615,Oil/gas,Protection from hardware failures,External
+Steelcase Inc.,Asia East,0.3548763636,Medical/genomics,Protection from power outage of a single storage cluster,External
+Stephen,Asia East,0.9043029623,Manufacturing,Protection from storage cluster going offline due to network outage,External
+Supreme Commission For Tourism And National Heritage,Asia East,0.2737981895,Automotive,Protection from storage cluster going offline due to network outage,External
+Surfmarket Bv,Asia East,0.8601261278,Automotive,Intra-regional high availability,External
+Swiss Life Ag,India Central,0.1776774539,Medical/genomics,Ability to transparently continue the operation in case of a single storage cluster being unavailable,External
+Systems Connect,Asia East,0.3187555124,Automotive,Protection from storage cluster going offline due to network outage,External
+Temenos Headquarters Sa,Europe West,1.135787597,Automotive,Intra-regional high availability,External
+The Nielsen Company (Us) Llc.,Europe West,0.7906191154,Oil/gas,Protection from hardware failures,External
+The Nottingham Trent University Azure 2,India Central,1.21689966,Medical/genomics,Ability to transparently continue the operation in case of a single storage cluster being unavailable,External
+Tomoe,Europe West,0.1806958506,Automotive,Intra-regional high availability,External
+Totalmobile Limited,Europe West,0.2707034622,Automotive,Intra-regional high availability,External
+Transport For London,Asia East,0.6492211446,Financial,Intra-regional high availability,External
+Tt Network Integration Europe Gmbh,Europe West,0.5578910693,Automotive,Intra-regional high availability,External
+Ubs Business Solutions Us Llc,Asia East,0.7749520347,Automotive,Data must stay within the same country/region,External
+Us Direct E Commerce Ltd T/A Eshopworld,Asia East,0.4745701567,Automotive,Data must stay within the same country/region,External
+Van Moer Group,Asia East,1.520908724,Automotive,Intra-regional high availability,External
+Varonis Systems Ltd,Europe West,1.862691705,Automotive,Intra-regional high availability,External
+Vecomp Spa,Asia East,1.09767615,Medical/genomics,Protection from power outage of a single storage cluster,External
+Vedbaek Ltd,Europe West,0.600265873,Oil/gas,Protection from hardware failures,External
+Vertical Gmbh,Asia East,1.622277234,Manufacturing,Protection from storage cluster going offline due to network outage,External
+Walls Construction,Europe West,1.117107122,Oil/gas,Intra-regional high availability,External
+Wcom Ab,Europe West,1.073355196,Oil/gas,Intra-regional high availability,External
+Weidmüller Interface Gmbh & Co. Kg,Asia East,1.744691214,Automotive,Data must stay within the same country/region,External
+Wim,US West,1.926189563,Retail,Protection from hardware failures,External
+Worldwide Commercial Business,India Central,0.382116,Medical/genomics,Ability to transparently continue the operation in case of a single storage cluster being unavailable,External
+Wpp Group Usa Inc.,Europe West,1.749968959,Oil/gas,Intra-regional high availability,External
+Xella Tenant,Asia East,1.680799875,Automotive,Intra-regional high availability,External
+ZY Pumping,Europe West,0.5059339991,Oil/gas,Protection from hardware failures,External
